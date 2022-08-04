@@ -17700,6 +17700,7 @@
 		  <OR>
 			<conceal operation="lessthanequals">0</conceal>
 			<category operation="contains">Pistol</category>
+			<category operation="contains">Submachine Guns</category>
 		  </OR>
 		</weapondetails>
 	  </required>
@@ -17725,6 +17726,7 @@
 		  <OR NOT="">
 			<conceal operation="lessthanequals">0</conceal>
 			<category operation="contains">Pistol</category>
+			<category operation="contains">Submachine Guns</category>
 		  </OR>
 		</weapondetails>
 	  </required>
